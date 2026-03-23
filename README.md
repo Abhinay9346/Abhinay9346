@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Abhinay9346
+- 👋 Hi, I’m N.Abhinay
 - 👀 I’m interested in Software devolpment
 - 🌱 I’m currently learning technical skills
 - 💞️ I’m looking to collaborate on projects
